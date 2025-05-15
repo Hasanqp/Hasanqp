@@ -27,6 +27,7 @@ I'm Hasan , a .Net Developer, and a Bachelor Student in Mechatronics and Robotic
 
 📫 How to reach me:
 
+![telegram](https://img.shields.io/badge/telegram-3670A0?style=for-the-badge&logo=telegram&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/hasan-gubran) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasangubran@mail.com) 
 
