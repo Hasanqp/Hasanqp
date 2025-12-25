@@ -29,7 +29,7 @@ I'm Hasan , a .Net Developer, and a Bachelor Student in Mechatronics and Robotic
 
 [![Telegram](https://img.shields.io/badge/Telegram-3670A0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HasanAqp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-gubran)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasangubran@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hasangubran@gmail.com)
 
 
 
